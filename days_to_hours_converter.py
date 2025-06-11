@@ -1,5 +1,3 @@
-
-
 #creating the variables
 calculations_to_units = 24
 name_of_unit = "hours"
